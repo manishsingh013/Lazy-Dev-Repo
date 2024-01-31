@@ -24,7 +24,7 @@ I am a simple Movie Search BOT.
 I can give movie links containing mDisk links.
 
 Just Type Movie name in pm or group 🦋**""" ) 
-    START_PHOTO = os.getenv("START_PHOTO", "")
+    START_PHOTO = os.getenv("START_PHOTO", "https://graph.org/file/d0cd6b13936a4913bd619.jpg")
     HOME_TEXT = os.getenv("HOME_TEXT", """ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕
 
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
